@@ -2,14 +2,14 @@
 //  CircleImage.swift
 //  Landmarks
 //
-//  Created by Junling Wu on 5/18/25.
+//  Created by Alexa Wu on 5/18/25.
 //
 
 import SwiftUI
 
 struct CircleImage: View 
 {
-    var body: some View
+    var body: some View 
     {
         Image("turtlerock")
             .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
@@ -18,6 +18,7 @@ struct CircleImage: View
     }
 }
 
-#Preview {
+#Preview 
+{
     CircleImage()
 }
