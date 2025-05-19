@@ -16,7 +16,7 @@ struct ContentView: View
             Text("Turtle Rock")
                 .font(.title)
             HStack 
-            {
+{
                 Text("Joshua Tree National Park")
                     .font(.subheadline)
                 Spacer()

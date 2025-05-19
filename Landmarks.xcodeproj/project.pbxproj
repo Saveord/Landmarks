@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D1394EEB2DDAE5AA00014C5F /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1394EEA2DDAE5AA00014C5F /* CircleImage.swift */; };
 		D178EF9F2DDAD0C700F7DD03 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D178EF9E2DDAD0C700F7DD03 /* LandmarksApp.swift */; };
 		D178EFA12DDAD0C700F7DD03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D178EFA02DDAD0C700F7DD03 /* ContentView.swift */; };
 		D178EFA32DDAD0C800F7DD03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D178EFA22DDAD0C800F7DD03 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D1394EEA2DDAE5AA00014C5F /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		D178EF9B2DDAD0C700F7DD03 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D178EF9E2DDAD0C700F7DD03 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		D178EFA02DDAD0C700F7DD03 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = /Users/jw769d/Desktop/alexa_code/Landmarks/Landmarks/ContentView.swift; sourceTree = "<absolute>"; };
@@ -97,6 +99,7 @@
 				D178EF9E2DDAD0C700F7DD03 /* LandmarksApp.swift */,
 				D178EFA02DDAD0C700F7DD03 /* ContentView.swift */,
 				D178EFA22DDAD0C800F7DD03 /* Assets.xcassets */,
+				D1394EEA2DDAE5AA00014C5F /* CircleImage.swift */,
 				D178EFA42DDAD0C800F7DD03 /* Preview Content */,
 			);
 			path = Landmarks;
@@ -259,6 +262,7 @@
 			files = (
 				D178EFA12DDAD0C700F7DD03 /* ContentView.swift in Sources */,
 				D178EF9F2DDAD0C700F7DD03 /* LandmarksApp.swift in Sources */,
+				D1394EEB2DDAE5AA00014C5F /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
